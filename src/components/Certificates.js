@@ -47,18 +47,18 @@ function Certificates() {
 >
     
   <div >
-    <img   className='img_ceri'   src={'/image/certi1.webp'}  alt='dcs' />
+    <img   className='img_ceri'   src={'/image/certi1.webp'}  alt='certificate' />
   </div>
   <div>    
-    <img   className='img_ceri'  src={'/image/certi2.webp'}  alt='dcs' />
+    <img   className='img_ceri'  src={'/image/certi2.webp'}  alt='certificate' />
 
   </div>
   <div>   
-     <img   className='img_ceri'  src={'/image/certi3.webp'}  alt='dcs' />
+     <img   className='img_ceri'  src={'/image/certi3.webp'}  alt='certificate' />
 
   </div>
   <div>   
-     <img   className='img_ceri'  src={'/image/certi4.webp'}  alt='dcs' />
+     <img   className='img_ceri'  src={'/image/certi4.webp'}  alt='certificate' />
 
   </div>
   

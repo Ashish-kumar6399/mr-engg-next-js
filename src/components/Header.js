@@ -527,7 +527,7 @@ const onClose = () => {setOpen(false)};
         title={
           <div style={{ display: 'flex', alignItems: 'center' }}>
             <img
-              src='/image/Logo.jpeg'
+              src='/image/Logo.webp'
               alt='logo'
               style={{height: '6.2rem',width: '8rem'}}
             />
@@ -568,7 +568,7 @@ const onClose = () => {setOpen(false)};
           <Link href='/'>
             <h1 className='pt-2'>
               <img
-                src='/image/Logo.jpeg'
+                src='/image/Logo.webp'
                 alt='logo/img'
               />
             </h1>
